@@ -1,0 +1,105 @@
+p{
+	font-size: 1em;
+	font-family: 'Poppins', sans-serif;
+	/*text-align: left;
+*/	font-style: normal;
+	font-weight: 400;
+	color: #A0A0A0;
+	line-height: 1.5;
+}
+/*h1{
+	font-size: 2.5rem;
+	text-align: left;
+	font-style: italic;
+	font-weight: bolder;
+	letter-spacing: 0px;
+	color: #5DAEFF;
+	opacity: 1;
+}
+*/
+h2{
+	font-size: 2em;
+	text-align: center !important;
+	font-style: normal;
+	font-weight: 700;
+	color: #000000;
+}
+h3{
+	font-size: 1.8em;
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	font-style: italic;
+	font-weight: 600;	
+	color: #5DAEFF;
+}
+h4{
+	font-size: 1.4em;
+	text-align: left;
+	font-style: normal;
+	font-weight: 600;
+	color: #;
+}
+h5{
+	font-size: 1.8em;
+	text-align: center;
+	font-style: lighter;
+	font-weight: 400;	
+	color: #ffffff;
+	letter-spacing: 1px;
+}
+
+
+h6{
+	font-size: 1em;
+	text-align: left;
+	font-weight: bolder;
+	text-transform: capitalize;
+	color: #056598;
+}
+ul{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+
+}
+a:hover{
+	text-decoration: none;
+}
+
+.button{
+	background-color: #5DAEFF;
+	padding: 5px 15px;
+	color: #ffffff;
+}
+h6 .lighter{
+	font-weight: lighter;
+}
+.smaller{
+	font-size: 0.75rem;
+	line-height: 1.25;
+}
+.dark{
+	color: #909090;
+	font-weight: 500;
+}
+.grey{
+	color: #909090;
+}
+.white{
+	color: white;
+}
+
+
+.card-deck h4 {
+    font-size: 1.125em;
+    text-align: center;
+}
+
+
+
+.scroll{
+	max-height: 300px;
+	overflow: auto;
+}
